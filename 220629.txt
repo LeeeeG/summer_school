@@ -21,3 +21,6 @@ github에 올리기
 
 $ git config --global user.name "LeeeeG"
 $ git config --global user.email "lovelemental@gmail.com"
+
+$ git clone ~
+깃허브랑 깃배쉬랑 연동
