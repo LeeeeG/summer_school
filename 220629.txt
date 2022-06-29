@@ -8,7 +8,7 @@ $ notepad README.md
 메모장 (README) 열기
 
 $ cd summer_school
-깃허브에 summer school
+summer school 이라는 폴더 생성
 
 $ git push
 깃허브에 올리기
