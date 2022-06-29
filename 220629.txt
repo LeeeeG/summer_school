@@ -12,3 +12,12 @@ $ cd summer_school
 
 $ git push
 깃허브에 올리기
+
+$ git status
+status 확인
+
+$ git commit -m "modified and new file added"
+github에 올리기
+
+$ git config --global user.name "LeeeeG"
+$ git config --global user.email "lovelemental@gmail.com"
