@@ -13,6 +13,15 @@ summer school 이라는 폴더 생성
 $ git push
 깃허브에 올리기
 
+<<<<<<< HEAD
+$ git add *.*
+모든것에서 모든것
+
+$ git status
+
+git
+$ git commit -m "Modifid and new file added"
+=======
 $ git status
 status 확인
 
@@ -21,6 +30,4 @@ github에 올리기
 
 $ git config --global user.name "LeeeeG"
 $ git config --global user.email "lovelemental@gmail.com"
-
-$ git clone ~
-깃허브랑 깃배쉬랑 연동
+>>>>>>> c961b7f62958ddab06d0e76b049ce6b5960a7796
