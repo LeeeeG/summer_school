@@ -86,7 +86,7 @@ this.currentSpeed = 0;
 
 
 ## ``` " {code} " ``` 이용법
-
++ Source code 내용
 ```
 import React from 'react';
 function MyComponent(props) {
