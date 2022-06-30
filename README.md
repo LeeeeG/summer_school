@@ -207,3 +207,18 @@ This footnote also has been made with a different syntax using 4 spaces for new 
 | `relative` | 요소 자신을 기준으로 배치 | |
 | `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
 | `fixed` | 브라우저 창을 기준으로 배치 | |
+
+
+## 줄바꿈
+---------------------
+
+* 일반 텍스트 문장: 문장 끝에 공백 2번(스페이스 2번)하면 줄 바꿈이 됨.
+* 테이블 내에서나 일반적인 경우: <br> 사용
+
+
+// example 1
+예를 들어, 지금  
+공백 2번 만들어서 지금과 공백 사이에서 줄 바꿈이 된다.
+
+// example 2
+안녕하세요. <br>반갑습니다. 줄이 바뀌었어요.
