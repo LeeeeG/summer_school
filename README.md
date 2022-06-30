@@ -189,6 +189,8 @@ This footnote also has been made with a different syntax using 4 spaces for new 
 
 
 ##table
+
+
  *<table> 태그로 변환됨
  * 헤더 셀을 구분할 때 3개 이상의 -(hyphen/dash) 기호가 필요함
  * 헤더 셀을 구분하면서 :(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있음
