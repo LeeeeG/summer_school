@@ -60,3 +60,26 @@
 22/06/21 누리호 발사 성공
 	세계에서 7번째 우주 강국
 누리호 성공축하
+
+
+
+
+## 4.2 { } 이용
+<pre>
+<code>
+class Car {
+private String modelName;
+private int modelYear;
+private String color;
+private int maxSpeed;
+private int currentSpeed;
+Car(String modelName, int modelYear, String color, int maxSpeed) {
+this.modelName = modelName;
+this.modelYear = modelYear;
+this.color = color;
+this.maxSpeed = maxSpeed;
+this.currentSpeed = 0;
+}
+}
+</code>
+</pre>
