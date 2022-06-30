@@ -30,4 +30,6 @@ github에 올리기
 
 $ git config --global user.name "LeeeeG"
 $ git config --global user.email "lovelemental@gmail.com"
+$ git clone '주소'
+깃허브에서 클론하기(연동)
 >>>>>>> c961b7f62958ddab06d0e76b049ce6b5960a7796
