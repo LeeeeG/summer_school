@@ -83,3 +83,17 @@ this.currentSpeed = 0;
 }
 </code>
 </pre>
+
+
+## ``` " {code} " ``` 이용법
+
+```
+import React from 'react';
+function MyComponent(props) {
+if (props.isBar) {
+return <div>Bar</div>;
+}
+return <div>Foo</div>;
+}
+export default MyComponent;
+```
