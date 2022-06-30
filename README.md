@@ -6,5 +6,6 @@
 
 # 1.1 인공지능 개론
 ## 2.1 Machine Learning
-### 2.2 Deep Learning
-#### 
+### 3.1 Deep Learning
+#### 4.1 경사하강법
+##### 5.1 선형회귀
