@@ -162,4 +162,13 @@ Naver Homepage: <https://naver.com>
 
 ## Image 삽입
 
+
+// example 1 ( Image 삽입)
 ![Street](cat.jpg "cat")
+
+
+
+// example 2 ( Image 주소로 삽입)
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
