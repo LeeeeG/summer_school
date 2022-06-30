@@ -110,3 +110,44 @@ return <div>Foo</div>;
 }
 export default MyComponent;
 ```
+
+
+
+
+2.5 Draw Line
+---------------
+
+* * *
+***
+*****
+- - - 
+---------------
+
+2.6 Link
+---------------
+
+* 참조 링크
+
+// examle
+
+Link: [google][googlelink]
+
+[googlelink]: https://google.co.uk "Let's Go Google"
+
+
+* 외부 링크
+
+// examle
+
+[Google](https://google.co.uk "Let's Go Google")
+
+
+
+* 자동 링크
+
+// examle
+
+Google Homepage: https://google.co.uk 
+
+Naver Homepage: <https://naver.com>
+
